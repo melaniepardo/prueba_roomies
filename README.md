@@ -12,7 +12,7 @@ Proyecto que permite resolver un problema sencillo sobre cómo registrar y distr
 
 ## Instrucciones 📌
 - Después de descargar el proyecto, desde VSC abra una nueva terminal y ejecute : `npm install` y luego
-`node roommate.js`
+`node index.js`
 
 -Luego instalar los siquientes paquetes:  
 
