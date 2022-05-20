@@ -1,6 +1,6 @@
 # Prueba roommates
 ## Descripción proyecto
-Proyecto que le permite resolver un problema sencillo de cómo distribuir gastos entre roommates o compañeros de piso, para ello se creea un servidor con Node y una interfaz HTML (que es parte del  Apoyo Prueba) que contribuye al registro de gastos entre roommates. 
+Proyecto que permite resolver un problema sencillo sobre cómo regustrar y distribuir gastos entre roommates o compañeros de piso, para ello se creea un servidor con Node y una interfaz HTML (que es parte del  Apoyo a la Prueba).
 
 ## Contenidos aplicados 📖
 
