@@ -1,6 +1,6 @@
-# prueba_roomies
+# Prueba roommates
 ## Descripción proyecto
-Proyecto que le permite a la empresa Spam Economy SPA (empresa ficticia para los efectos del desafio)  tener un servidor que reciba una lista de correos electrónicos, a los cuales se les enviará periódicamente correos electrónicos personalizados con los indicadores del dólar, euro, uf y utm. El objetivo es lograr enviarle un correo electrónico a diferentes direcciones separadas por “,” en el campo “correos” del formulario. Además de concatenarle al mensaje escrito los indicadores económicos
+Proyecto que le permite resolver un problema sencillo de cómo distribuir gastos entre roommates o compañeros de piso, para ello se creea un servidor con Node y una interfaz HTML (que es parte del  Apoyo Prueba) que contribuye al registro de gastos entre roommates. 
 
 ## Contenidos aplicados 📖
 
@@ -11,11 +11,11 @@ Proyecto que le permite a la empresa Spam Economy SPA (empresa ficticia para los
 - Utilizar paquetes de npm
 
 ## Instrucciones 📌
-- Para ingresar a ver los archivos del proyecto, dirijase a la carpeta assets, y luego a los archivos js.
 - Después de descargar el proyecto, desde VSC abra una nueva terminal y ejecute : `npm install` y luego
-`node app.js` o puede ejecutar `npm install -g nodemon` y por ende luego `nodemon app.js`.
+`node roommate.js`
 
 -Luego instalar los siquientes paquetes:  
+
 1. `npm i axios`
 2. `npm i uuid`
  
